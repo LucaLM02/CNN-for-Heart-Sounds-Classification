@@ -50,29 +50,7 @@ Noise injection experiments confirmed the importance of preprocessing, with filt
 
 ---
 
-## 📈 Results & Visualizations
-Below are some plots illustrating the training process and model performance:  
-
-**Training vs Validation Loss**  
-![Training Loss](images/training_loss.png)  
-![Validation Loss](images/validation_loss.png)  
-
-**ROC Curve**  
-![ROC Curve](images/roc_curve.png)  
-
-**Confusion Matrix**  
-![Confusion Matrix](images/confusion_matrix.png)  
-
----
-
 ## ✅ Conclusion
 - Preprocessing is crucial for classification accuracy and robustness.  
 - Filtering significantly improves resilience against noise.  
 - The best-performing model achieved an **F1-score of 0.97**.  
-
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/USERNAME/REPO.git
